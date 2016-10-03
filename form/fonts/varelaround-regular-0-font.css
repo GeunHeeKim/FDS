@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'YouandiModernTR';
+    font-style: normal;
+    font-weight: normal;
+    src: url(./VarelaRound-Regular_0.eot);
+    src: url(./VarelaRound-Regular_0.eot?#iefix) format('embedded-opentype'),
+         url(./VarelaRound-Regular_0.woff) format('woff')
+}
