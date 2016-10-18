@@ -62,6 +62,8 @@ rgba, hlsa 값을 배경 색상으로 사용할 수 있다.
   background-clip: content-box;
 }
 ```
+<img src="images/bcg-clip.png">
+
 
 background-clip : 박스모델에 배경이 적용되는 영역을 지정할 수 있다. (기본은 border)
 background-origin : 기준점을 설정하여 배경이미지 적용 (기본은 padding)
