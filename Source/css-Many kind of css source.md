@@ -66,11 +66,17 @@ rgba, hlsa 값을 배경 색상으로 사용할 수 있다.
 
 
 background-clip : 박스모델에 배경이 적용되는 영역을 지정할 수 있다. (기본은 border)
+
 background-origin : 기준점을 설정하여 배경이미지 적용 (기본은 padding)
+
 background-size : cover | contain | px | % | em | rem 사용 가능
+
+<img src="https://github.com/GeunHeeKim/FDS/blob/gh-pages/Source/images/bcg-size.png">
 
 cover 이미지 크기 비율을 그대로 유지한 상태에서 이미지가 들어 있는 영역의 가로 또는 세로에 이미지를 맞춘다.(가로와 세로 중 큰 값에 맞춘다)
 contain 이미지 크기 비율을 그대로 유지한 상태에서 원하는 영역에 전체 이미지가 들어가도록 가장 작은 크기로 이미지 스케일을 조정한다.(가로와 세로 중 큰 값에 맞춘다)
-background 속기형 작성
 
+*background 속기형 작성
+```
  selector {background: (color) (url) (repeat) (attachment) (position)}
+ ```
