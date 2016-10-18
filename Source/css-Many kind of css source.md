@@ -1,7 +1,7 @@
 
 ## Image 관
 
-img 는 하단에 빈공간이 이유없이 생기므로, vertical-align: top을 넣어야함.
+ img 는 하단에 빈공간이 이유없이 생기므로, vertical-align: top을 넣어야함.
 
 **Fonts
 css 로 html 에 있는 영문의 형태를 바꾸는 것.
