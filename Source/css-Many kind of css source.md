@@ -62,7 +62,7 @@ rgba, hlsa 값을 배경 색상으로 사용할 수 있다.
   background-clip: content-box;
 }
 ```
-<img src="/GeunHeeKim/FDS/raw/gh-pages/Source/images/bcg-clip.PNG">
+<img src="https://github.com/GeunHeeKim/FDS/blob/gh-pages/Source/images/bcg-clip.PNG">
 
 
 background-clip : 박스모델에 배경이 적용되는 영역을 지정할 수 있다. (기본은 border)
