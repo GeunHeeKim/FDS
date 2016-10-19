@@ -10,3 +10,8 @@
 
   http://css2sass.herokuapp.com/
   
+  1. node-sass 2.-w 3.-r  4.--output-style expanded 5. --source-map ./css  6. sass -o css
+
+1.노드 사스 > 2.지켜봐라 > 3.하위폴더도 바꿔라 > 4.css 파일로 내보내는 형식은 expanded로 내보내라
+> 5. 소스맵을 하위 css 폴더에 만들어라 >6.sass를 css 파일로 내보내라
+  
