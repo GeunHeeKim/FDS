@@ -1,0 +1,141 @@
+
+body {
+  /*font-family: 'Wendy One', sans-serif;
+  font-family: 'Righteous', cursive;*/
+}
+
+h1 {
+  font-family:'Righteous', cursive;
+  text-align:center;
+  margin-right: 150px;
+ }
+
+ nav {
+   width: 728px;
+   margin: 30px auto 0;
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+ }
+
+ button {
+   cursor: pointer;
+ }
+
+.stable {
+  font-family: 'Wendy One', sans-serif;
+    background: url(../images/seaandsky.jpg) no-repeat #7b8a8f;
+    background-size:contain;
+    width: 728px;
+    height: 500px;
+    margin: 20px auto 0;
+    position: relative;
+    border-radius: 30px;
+    box-shadow: 0 0 2px 2px #7b8a8f;
+}
+
+
+.first-step {
+  background-image: url(../images/foot-left.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #fff;
+  background-position: 50% 7px;
+  width: 50px;
+  height: 50px;
+  text-indent: -9999em;
+  border: none;
+}
+
+.go-back {
+  background-image: url(../images/Recurring-Appointment-100.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #fff;
+  background-position: 50% 3px;
+  width: 50px;
+  height: 50px;
+  text-indent: -9999em;
+  border: none;
+}
+
+.step-right {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background-color: rgba(255,255,255,0.2);
+  background-size: 50% 50%;
+  text-align: center;
+  font-size: 0;
+  padding-top: 200px;
+  box-sizing: border-box;
+}
+
+.step-up {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  height: 0;
+  font-size: 0;
+  background-color: rgba(255,255,255,0.2);
+  box-sizing: border-box;
+}
+
+.stable.grow .step-up {
+  height: 100%;
+  padding-top: 150px;
+  font-size: 2rem;
+  transition-duration: 10s;
+  /*transition-duration: 10s;
+  transition-timing-function:linear;*/
+  /*transition-timing-function: steps(100, end);*/
+}
+
+.stable.grow .step-right {
+  width: 100%;
+  transition-duration: 10s;
+  font-size: 2rem;
+  line-height: 4rem;
+  /*transition-timing-function: steps(100, start);*/
+}
+
+.stable .balloon {
+    background: url(../images/Baby-100.png) 50% center #fff;
+    background-repeat: no-repeat;
+    top: 405px;
+    color: #fff;
+    width: 120px;
+    height: 120px;
+    left: -20px;
+    line-height: 163px;
+    position: absolute;
+    text-align: center;
+    /*transition: all 0.2s ease 0s;*/
+    border-radius: 60px;
+    box-sizing: border-box;
+    padding: 5px;
+    box-shadow: 0 0 5px 5px #797979;
+}
+
+@keyframes sun_ani {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}
+
+.stable.grow .balloon {
+    background: url(../images/Dancing-100.png) 50% center #ffc290;
+    background-repeat: no-repeat;
+    top:-20px;
+    left:640px;
+    box-shadow: 0 0 20px 20px #ffc290;
+    transition-duration: 10s;
+    animation:sun_ani 2s infinite alternate;
+}
