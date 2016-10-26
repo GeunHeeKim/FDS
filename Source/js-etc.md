@@ -18,4 +18,4 @@ for 또는 while 같은 함수에는 안씀
 
 <img src="https://github.com/GeunHeeKim/FDS/blob/gh-pages/Source/images/js-node-call-codelist.PNG">
 
-
+for ~ in 문은 객체 내의 속성을 탐색할때 이용한다.
