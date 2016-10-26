@@ -42,3 +42,9 @@ sass 명령어 보기
    top: 0
    left: 0
   ```
+  
+node sass command text
+
+node-sass -w -r sass -o css
+
+node-sass -w -r sass --output ./ --output-style expanded --source-map ./
