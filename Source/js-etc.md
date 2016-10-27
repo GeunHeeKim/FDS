@@ -30,8 +30,8 @@ function makeAdder(x) {
   }
 }
 
-var add5 = makeAdder(5);
-var add10 = makeAdder(10);
+var add5 = makeAdder(5); // 7
+var add10 = makeAdder(10); // 12
 
 print(add5(2));
 print(add10(2));
