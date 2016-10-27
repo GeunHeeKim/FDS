@@ -1,5 +1,6 @@
 
 **javascript 문법**
+
 1. ";" 를 쓰는 경우
    변수 선언시, do while
 
