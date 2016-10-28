@@ -43,3 +43,6 @@ print(add10(2));
   ( function(){ console.log('IIFE Pattern'); } )();
 ```
 
+**Browser Object Model**
+
+in console > window.screen 을 찍으면  screen 객체의 정보를 볼 수 있다.
