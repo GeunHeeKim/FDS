@@ -9,3 +9,9 @@ DOM 에서는 코드에서의 공백, 엔터, 주석이 모두 "#text" 노드로
 * 노드의 유형(type) 이 있다.(명령어 : document.ELEMENT_NODE)
 
 * 해당 노드의 하위 모든 노드를 보고 싶으면 명령어 a.childNodes 를 찍어보면 다 볼 수 있다.
+
+* nodeValue는 textNode 만 가질 수 있다.
+
+* 요소노드는 3
+
+* 텍스트노드는 1
