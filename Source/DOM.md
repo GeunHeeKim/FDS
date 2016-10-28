@@ -26,6 +26,6 @@ DOM 에서는 코드에서의 공백, 엔터, 주석이 모두 "#text" 노드로
 
 * nodeName = 요소이름을 반환 하는데, 대문자로 반환한다. 그래서NodeName.toLowerCase() 로 해서 소문자로 가져온다.
 
-)document.body.children[3].nodeName
+document.body.children[3].nodeName
 
 *.childNodes 는 자손은 아니고 오직 자식 노드들만을 가리킨다.
