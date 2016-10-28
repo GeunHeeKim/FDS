@@ -35,3 +35,7 @@ document.body.children[3].nodeName
 
 document.body.firstElementChild.title = 'first element' - 속성값 변경도 가능하다.
 
+aria-describedby 또는 data- 같은 새로운 속성은 xml DOM(getAttribute) 방식으로 가져와야 한다.
+
+단 하나 form 은 기존 방식(. 붙여서 가져오는 방식)으로 가져와야 한다.
+
