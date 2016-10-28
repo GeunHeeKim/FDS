@@ -30,5 +30,5 @@ document.body.children[3].nodeName
 
 *.childNodes 는 자손은 아니고 오직 자식 노드들만을 가리킨다.
 
-** document.documentElement = <html> 를 가리킨다. 정해져 있음. 노드를 찾을때는 이거부터 
-찾고 그 다음에 이어서 찾아야 한다. **
+**document.documentElement = <html> 를 가리킨다. 정해져 있음. 노드를 찾을때는 이거부터 
+찾고 그 다음에 이어서 찾아야 한다.**
