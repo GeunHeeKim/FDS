@@ -21,3 +21,5 @@ DOM 에서는 코드에서의 공백, 엔터, 주석이 모두 "#text" 노드로
 * 대문자는 주로 상수값을 표현한다.
 
 * document.body.chidren - 모든 자식 노드중 요소노드만 뽑아온다!!!
+
+* document.documentElement = <HTML> 을 말한다.
