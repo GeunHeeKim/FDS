@@ -7,4 +7,9 @@ page_div.setAttribute('id','page');
 
 IIFE Pattern
 (function(){}());
+
+page.appendChild(page_brand); //부모에 마지막 자식으로 요소노드를 추가하는것
+
 ```
+
+
