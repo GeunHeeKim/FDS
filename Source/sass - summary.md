@@ -48,3 +48,5 @@ node sass command text
 node-sass -w -r sass -o css
 
 node-sass -w -r sass --output ./ --output-style expanded --source-map ./
+
+node-sass -w -r sass -o css --source-map ./css --output-style expanded
