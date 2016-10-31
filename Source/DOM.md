@@ -39,3 +39,8 @@ aria-describedby 또는 data- 같은 새로운 속성은 xml DOM(getAttribute) �
 
 단 하나 form 은 기존 방식(. 붙여서 가져오는 방식)으로 가져와야 한다.
 
+**요소노드 안의 텍스트에 접근하는 방식**
+* .nodeValue
+* .textContent
+* .innerHTML
+
