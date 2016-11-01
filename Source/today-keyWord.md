@@ -20,7 +20,7 @@ main_parent.insertBefore(divider, main);
 
 2016.11.1.수
 DOM Script replace~
-
+1. 
 ```javascript
 function replaceStrongElement() {
   var target_strong = target_p.querySelector('strong');
@@ -34,12 +34,19 @@ function replaceStrongElement() {
 }
 ```
 
-keyNote - 04 DOM 문서 객체 모델
+2. keyNote - 04 DOM 문서 객체 모델
 
-클로저가 함수 만은 아니다.
+3. 클로저가 함수 만은 아니다.
 
-의존성 관리 - DOM_Helper.js는 반드시 app.js 앞에서 먼저 불러와야 한다.
+4. 의존성 관리 - DOM_Helper.js는 반드시 app.js 앞에서 먼저 불러와야 한다.
 
-_언더바를 붙이면 비공개 멤버이다.
+5. _언더바를 붙이면 비공개 멤버이다.
 
-네임스페이스 - 이거를 통해서만 접근할 수 있다.
+6. 네임스페이스 - 이거를 통해서만 접근할 수 있다.
+
+7. **console.log(document)**
+
+를 치면 document 문서가 가진 native 속성들을 볼 수 있다.!
+"document" 대신에 다른 객체를 넣으면 다른 객체의 속성을 볼 수 있다.
+
+    
