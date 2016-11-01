@@ -33,3 +33,5 @@ function replaceStrongElement() {
 
 }
 ```
+
+keyNote - 04 DOM 문서 객체 모델
