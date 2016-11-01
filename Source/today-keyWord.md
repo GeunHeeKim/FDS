@@ -49,4 +49,8 @@ function replaceStrongElement() {
 를 치면 document 문서가 가진 native 속성들을 볼 수 있다.!
 "document" 대신에 다른 객체를 넣으면 다른 객체의 속성을 볼 수 있다.
 
+8. 'nextElementSibling' in Element.prototype -> nextElementSibling 이라는 속성이 요소노드에 있는지 체크하는 코드
+    Element.prototype -> 요소노드가 갖고 있는 속성(?기능?)을 보여줘 라는 코드!! - 많이 쓰일꺼 같으다!! 알아 놓기
+    브라우저 콘솔창에 확인 해보면 됨. 우하하하
+
     
