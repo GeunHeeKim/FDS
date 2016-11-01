@@ -17,3 +17,18 @@ main_parent.insertBefore(divider, main);
 4. break // 이 곳에서 코드를 중지 시키는 기능
 
 ```
+
+*2016. 11.1.수
+DOM Script replace~
+
+
+function replaceStrongElement() {
+  var target_strong = target_p.querySelector('strong');
+
+  this.parentNode.replaceChild(target_strong, this);
+
+  return false;
+  //return false - prevent defalut 라고 해서 a 태그가 기본적으로 갖고 있는 속성,
+  //href 는 기본 속성이고 어디론가 가려는 성질이 있는데, 그거를 막아야 하니까 쓴다.
+
+}
