@@ -35,3 +35,5 @@ function replaceStrongElement() {
 ```
 
 keyNote - 04 DOM 문서 객체 모델
+클로저가 함수 만은 아니다.
+의존성 관리 - DOM_Helper.js는 반드시 app.js 앞에서 먼저 불러와야 한다.
