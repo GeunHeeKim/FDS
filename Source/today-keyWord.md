@@ -21,7 +21,7 @@ main_parent.insertBefore(divider, main);
 *2016. 11.1.수
 DOM Script replace~
 
-
+```javascript
 function replaceStrongElement() {
   var target_strong = target_p.querySelector('strong');
 
@@ -32,3 +32,4 @@ function replaceStrongElement() {
   //href 는 기본 속성이고 어디론가 가려는 성질이 있는데, 그거를 막아야 하니까 쓴다.
 
 }
+```
