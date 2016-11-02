@@ -83,4 +83,8 @@ function replaceStrongElement() {
   8. 마우스 이벤트
    
    mouseEnter, mouseLeave
+   
+   9. 비동기 방식 - 가만히 있다가 이벤트가 발생하면 처리해주는 방식
+                   
+                   비동기(Asynchronous) - 눌러 놓고, 다른 일을 할 수 있는 것.
 
