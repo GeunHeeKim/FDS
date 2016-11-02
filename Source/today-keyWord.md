@@ -89,4 +89,16 @@ function replaceStrongElement() {
                    비동기(Asynchronous) - 눌러 놓고, 다른 일을 할 수 있는 것.
                    
    10. 이벤트 전파 - 박스가 겹쳐 있으면 겹쳐있는 다른 요소에도  이벤트가 전파 된다.
+       이벤트 전파를 원하지 않는 경우 - true 나 false 로 제어하면 된다.
+
+
+ 
+event.target 실제 클릭한 것
+
+event.currentTarget 캡쳐링이 발생했을때 올라오는 중이니까 grand-parent 에 있으니까 grand-parent 를 말한다.
+
+
+true - 캡쳐링
+
+false - 버블링 - 자식에서 부모로 전파 되는것.
 
