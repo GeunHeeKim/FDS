@@ -38,6 +38,8 @@ function replaceStrongElement() {
 
 3. 클로저가 함수 만은 아니다.
 
+4. 전달인자가 이벤트 객체가 될 수 있다.
+
 4. 의존성 관리 - DOM_Helper.js는 반드시 app.js 앞에서 먼저 불러와야 한다.
 
 5. _언더바를 붙이면 비공개 멤버이다.
