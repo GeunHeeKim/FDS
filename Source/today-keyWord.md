@@ -62,7 +62,7 @@ function replaceStrongElement() {
  
  .localName - 소문자로 요소객체로 반환된다.
  
-.nodeName - 대문자로 반환 된다.
+ .nodeName - 대문자로 반환 된다.
 
 
-null - 오타 또는 코드 실행 시점 찾아보기
+ null - 오타 또는 코드 실행 시점 찾아보기
