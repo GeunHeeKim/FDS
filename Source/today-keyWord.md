@@ -104,3 +104,9 @@ false - 버블링 - 자식에서 부모로 전파 되는것.
 
 이벤트 빈 값은 false 다  false 는 버블링이다.
 
+*call 관련 사항
+aa.call(this); -   aa 안에서 this를 지정할 수 있다.
+ = aa.call(document); - call 에서 this는 document로 지정 되었다.
+
+call apply bind 의 차이를 나중에 알 수 있으면 좋겠다.
+
