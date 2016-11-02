@@ -57,4 +57,12 @@ function replaceStrongElement() {
 
     
  2016.11.02.수
+ 
  return 을만나면 코드 실행이 거기서 멈춘다.
+ 
+ .localName - 소문자로 요소객체로 반환된다.
+ 
+.nodeName - 대문자로 반환 된다.
+
+
+null - 오타 또는 코드 실행 시점 찾아보기
