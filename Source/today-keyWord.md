@@ -18,7 +18,8 @@ main_parent.insertBefore(divider, main);
 
 ```
 
-2016.11.1.수
+2016.11.1.
+
 DOM Script replace~
 1. 
 ```javascript
