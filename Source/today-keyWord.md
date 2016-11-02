@@ -54,3 +54,5 @@ function replaceStrongElement() {
     브라우저 콘솔창에 확인 해보면 됨. 우하하하
 
     
+ 2016.11.02.수
+ return 을만나면 코드 실행이 거기서 멈춘다.
