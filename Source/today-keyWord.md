@@ -63,6 +63,11 @@ function replaceStrongElement() {
  .localName - 소문자로 요소객체로 반환된다.
  
  .nodeName - 대문자로 반환 된다.
+ 
+  null - 오타 또는 코드 실행 시점 찾아보기.
+  
+  수학(Math) 객체 random() 메서드 = 0~1 사이의 실수가 나온다.
 
+   Math.random() * 10 하면  계산된다.
 
- null - 오타 또는 코드 실행 시점 찾아보기
+   Math.floor (1.2323) -> 1로 반환된다.
