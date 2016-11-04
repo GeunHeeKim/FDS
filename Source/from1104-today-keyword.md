@@ -16,3 +16,7 @@
   console.dir(Number);
   console.dir(String);
 ```
+
+* substring(8,13); ->문자열의 8번째부터 13번째 문자까지의 text를 가져온다.
+
+  'one two three'.split(' '); ->내용을 배열로 만듦.
