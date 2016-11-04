@@ -72,5 +72,7 @@ Tab.prototype.activeTab = function() {}; // 프로토타입 객체 능력 추가
 my_tab.activeTab; // function(){} // 인스턴스 객체는 그 능력을 사용할 수 있다.
 ```
 
+aa.classList.add('aa') -> 클래스 추가하는 코드
+
 
 
