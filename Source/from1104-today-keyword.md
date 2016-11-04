@@ -45,8 +45,7 @@
      console.log(el);
   });
  ```
- 
-4.  console.log(arguments) 찍어보기.
+ 4.  console.log(arguments) 찍어보기.
 
 5. .concat - string, array 가 갖고있는 메소드 , 내용을 붙여주는 메소드
 
