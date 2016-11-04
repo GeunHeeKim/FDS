@@ -45,4 +45,7 @@
      console.log(el);
   });
  ```
+ 
+4.  console.log(arguments) 찍어보기.
+
 
