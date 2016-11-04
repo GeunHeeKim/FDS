@@ -11,5 +11,8 @@
 * null,undefined 는 객체가 아니다.
 
 * javascript가 갖고 있는 속성들을 검색해보고 싶으면 console창에 검색 해보기.
-
+```javas
   console.dir(Math)
+  console.dir(Number);
+  console.dir(String);
+```
