@@ -28,3 +28,21 @@
 2. push, pop, shift, unshift 는 모두 원본 데이터를 변경한다.
 
    slice 는 원본데이터를 보존 하고 해당 내용을 빼온다.
+   
+3. 배열 메소드 빌려쓰기 패턴
+```javascript
+  // [].forEach.call(all_els, function(el){
+  var forEach = Array.prototype.forEach;
+  forEach.call(all_els, function(el){
+     console.log(el);
+  });
+
+  // ------------------------------------------
+
+  // 노드리스트(유사배열)를 배열화 패턴
+  all_els = makeArray(all_els);
+  all_els.forEach(function(el){
+     console.log(el);
+  });
+ ```
+
