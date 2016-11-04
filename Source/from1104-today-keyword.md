@@ -24,3 +24,7 @@
 1.  push(앞에) , unshift(뒤에) - 삽입
     
     pop(앞에서) , shift(뒤에서) - 빼냄
+    
+2. push, pop, shift, unshift 는 모두 원본 데이터를 변경한다.
+
+   slice 는 원본데이터를 보존 하고 해당 내용을 빼온다.
