@@ -48,6 +48,26 @@
  
 4.  console.log(arguments) 찍어보기.
 
-5. .concat - string, array 가 갖고있는 메소드 , 붙여주는 메소드
+5. .concat - string, array 가 갖고있는 메소드 , 내용을 붙여주는 메소드
+
+6. 함수 내에서만 살고 있는 객체 - arguments [] = Array.prototype
+
+ console.log(arguments) 찍어보기.
+ 
+ 7. // 객체 지향 자바스크립트 패턴 1  //
+////////////////////////////
+
+function Tab(){} // 생성자 함수
+
+// Tab.prototype; // 프로토타입 객체
+
+var my_tab = new Tab(); // 객체 인스턴스 생성
+
+my_tab.activeTab; // undefined
+
+Tab.prototype.activeTab = function() {}; // 프로토타입 객체 능력 추가
+
+my_tab.activeTab; // function(){} // 인스턴스 객체는 그 능력을 사용할 수 있다.
+
 
 
