@@ -9,3 +9,7 @@
 * [ttw.length - 1] 을 하면 시작값은 0 부터 이기때문에, -1을 하면 마지막 값을 빼온다.
 
 * null,undefined 는 객체가 아니다.
+
+* javascript가 갖고 있는 속성들을 검색해보고 싶으면 console창에 검색 해보기.
+
+  console.dir(Math)
