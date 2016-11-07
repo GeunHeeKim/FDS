@@ -10,3 +10,5 @@ jQuery 팩토리 함수 (자바스크립트의 팩토리 패턴을 사용하기�
 ```javascript
 jQuery()
 ```
+
+jQuery 에서 prototype 은 fn 이라고 쓴다.
