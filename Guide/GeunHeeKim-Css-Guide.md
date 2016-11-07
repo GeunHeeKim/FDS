@@ -1,3 +1,7 @@
+## CSS Coding Convention
+
+1.  BEM(Block Element Modifier)를 기본으로 한다.
+
 속성 이름순 정렬
 
 속성: 값; 형식
