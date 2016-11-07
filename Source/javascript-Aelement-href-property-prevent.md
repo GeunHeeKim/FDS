@@ -1,4 +1,4 @@
-*preventDefault() - a 링크 요소에서  href 라는 속성으로 어딘가를 가려는 속성을 차단하는 방법*
+**preventDefault() - a 링크 요소에서  href 라는 속성으로 어딘가를 가려는 속성을 차단하는 방법**
 
 1. return false를 써준다.
 
