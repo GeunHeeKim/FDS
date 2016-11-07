@@ -12,3 +12,15 @@ jQuery()
 ```
 
 * jQuery 에서 prototype 은 fn(별칭) 이라고 쓴다.
+
+```javascript
+jQuery(function() {
+  $fs.prependTo('.gnb');
+});
+//이 경우  rdady가 없지만, jQuery 내에 바로 함수를 선언하는 것은
+//document가 ready되면 함수를 실행하라는 의미가 함축 되어 있다.
+
+jQuery(document).ready(function(){
+  $fs.prependTo('.gnb');
+})
+```
