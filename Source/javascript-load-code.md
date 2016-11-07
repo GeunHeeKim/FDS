@@ -17,4 +17,4 @@ function init() {
 
 **불러 오는 속도의 순위**
 
-1. DOMContentLoaded Event << 2. jQuery Ready Event << 3. Load Event
+1. DOMContentLoaded Event 이 가장 짧다.<< 2. jQuery Ready Event 그 다음 << 3. Load Event 가장 길다.
