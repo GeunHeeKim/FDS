@@ -24,3 +24,19 @@ jQuery(document).ready(function(){
   $fs.prependTo('.gnb');
 })
 ```
+
+
+**jQuery 상용 실행 문구**
+
+```javascript
+(function(global,$){
+  'use strict';
+})(this, this.jQuery);
+
+
+jQuery(function($){
+  //함수 내부이기 때문에
+  //안정적으로 $를 jQuery로 사용할 수 있다.
+  
+});
+```
