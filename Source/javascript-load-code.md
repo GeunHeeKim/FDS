@@ -14,3 +14,7 @@ function init() {
 'load' 라는 코드와 같은 의미인데, 'load'이벤트는 속도가 많이 느리다.
 
 따라서'DOMContentLoaded' 사용을 권장.
+
+**불러 오는 속도의 순위**
+
+1. DOMContentLoaded Event << 2. jQuery Ready Event << 3. Load Event
