@@ -12,4 +12,5 @@ css는 1부터 시작하고,
 javascript는 0부터 시작하므로 두개는 반대이다.
 
 >css - even-짝수, odd-홀수
+
 >javascript = odd-짝수, even-홀수
