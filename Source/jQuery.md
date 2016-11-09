@@ -49,3 +49,26 @@ jQuery(function($){
 >$(this).css
 
 
+jQuery 인스턴스 메소드 = jQuery.fn(prototype)의 메소드
+
+```javascript
+  // 일반적인 방법
+  // $album.on('click', moveDisk);
+  // $album.on('mouseenter', playDisk);
+  // $album.on('mouseleave', stopDisk);
+
+  // Method Chaining(메서드 체이닝) = 객체(Object)에서 시작해서 메서드를 읽고, 읽고, 읽는 것.
+  // $album
+  //   .on('click', moveDisk)
+  //   .on('mouseenter', playDisk)
+  //   .on('mouseleave', stopDisk);
+
+  // 객체 리터럴 활용
+  $album.on({
+    'mouseenter': moveDisk,
+    'click'     : playDisk,
+    'dblclick'  : stopDisk
+  });
+ ```
+
+
