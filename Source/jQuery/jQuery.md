@@ -73,5 +73,6 @@ jQuery 인스턴스 메소드 = jQuery.fn(prototype)의 메소드
 
 
 offsetParent - position:absolute 인 요소가 실질적으로 움직이는 기준이 되는 부모요소를 가리킴.
+
 offset - 실제 화면의 최상단으로부터 컨텐츠(보더와 패딩을 제외한 실제 컨텐츠 영역)까지의 높이를 가리킴.
 
