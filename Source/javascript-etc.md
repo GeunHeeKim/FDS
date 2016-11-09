@@ -46,3 +46,6 @@ print(add10(2));
 **Browser Object Model**
 
 in console > window.screen 을 찍으면  screen 객체의 정보를 볼 수 있다.
+
+
+함수(function)은 return이 없으면 undefined 이다.
