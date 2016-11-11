@@ -2,6 +2,8 @@
 
 * $$('.nav') -> document.querySelector 이라는 의미이다.
 
+* jQuery에서 메서드 체이닝(Method Chining)이 많이 거론된다.
+
 * 여러 종류의 스크립트 라이브러리를 쓸경우 $ 사용이 충돌날 수 있으므로,
 
 * jQuery 팩토리 함수를 사용한다.
