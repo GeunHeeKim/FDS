@@ -20,3 +20,6 @@ xhr.addEventListener('readystatechange',checkAjaxCommunication);
 https://github.com/es-shims/es5-shim/blob/master/es5-shim.js
 
 이거를 불러오면 크로스브라우징이 해결된다.
+
+콘솔창에서 Network 에서 disable cache 를 꼭 체크 하고 실행해야한다.
+
