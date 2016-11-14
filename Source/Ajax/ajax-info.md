@@ -6,3 +6,12 @@ ajax 는 접근성이 없어진다. - Live Region 방식으로 하면 접근성�
 
 JASON 파일 만드는 명렁어 : npm init -y
 
+```javascript
+//구형 이벤트 모델 ie 6~ 이상 다 됨.
+//xhr.onreadystatechange = checkAjaxCommunication
+
+
+//신형 이벤트 모델 ie9 이상
+//xhr.addEventListener('readystatechange',checkAjaxCommunication);
+```
+
