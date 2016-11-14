@@ -23,3 +23,5 @@ https://github.com/es-shims/es5-shim/blob/master/es5-shim.js
 
 콘솔창에서 Network 에서 disable cache 를 꼭 체크 하고 실행해야한다.
 
+콘솔창에 window.JSON 를 치면 json 의 함수를 볼 수 있다.
+
