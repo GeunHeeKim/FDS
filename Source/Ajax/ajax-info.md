@@ -17,3 +17,6 @@ xhr.onreadystatechange = checkAjaxCommunication
 xhr.addEventListener('readystatechange',checkAjaxCommunication);
 ```
 
+https://github.com/es-shims/es5-shim/blob/master/es5-shim.js
+
+이거를 불러오면 크로스브라우징이 해결된다.
