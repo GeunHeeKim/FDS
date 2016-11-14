@@ -2,3 +2,7 @@
 
 ajax 는 접근성이 없어진다. - Live Region 방식으로 하면 접근성이 개선된다.
 
+서버 구동하는 명령어 : http-server -o -a localhost -p 9090
+
+JASON 파일 만드는 명렁어 : npm init -y
+
