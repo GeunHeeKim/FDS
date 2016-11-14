@@ -8,10 +8,10 @@ JASON 파일 만드는 명렁어 : npm init -y
 
 ```javascript
 //구형 이벤트 모델 ie 6~ 이상 다 됨.
-//xhr.onreadystatechange = checkAjaxCommunication
+xhr.onreadystatechange = checkAjaxCommunication
 
 
 //신형 이벤트 모델 ie9 이상
-//xhr.addEventListener('readystatechange',checkAjaxCommunication);
+xhr.addEventListener('readystatechange',checkAjaxCommunication);
 ```
 
