@@ -19,3 +19,8 @@ webpack entry.js bundle.js <-- 번들 파일을 생성한다.
 node_modules 설치 명령어 :
  
 웹팩의 엔트리 제이에스 파일을 번들 제이에스 파일을 만드는 명령어 : webpack entry.js bundle.js
+
+제이쿼리 빌딩 - 내가 필요한 모듈만 내가 조합해서 쓰는것.
+
+jQuery.ajax();
+-클래스 메서드(Class Methods) = 유틸리티메서드(Utility Methods) = 스태틱 메서드(Static Methods)
