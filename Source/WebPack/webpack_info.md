@@ -24,3 +24,10 @@ node_modules 설치 명령어 :
 
 jQuery.ajax();
 -클래스 메서드(Class Methods) = 유틸리티메서드(Utility Methods) = 스태틱 메서드(Static Methods)
+
+
+소스맵 만들기 : webpack entryjs bundle.js -d 
+
+오류 보기: ctrl + p
+
+실시간 변경사항있으면 번들링 : webpack -w entry.js bundle.js
