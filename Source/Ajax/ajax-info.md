@@ -6,6 +6,8 @@ ajax 는 접근성이 없어진다. - Live Region 방식으로 하면 접근성�
 
 JASON 파일 만드는 명렁어 : npm init -y
 
+디렉트리와 모든 js 파일을 강제로 지우기 : rm -rf node_modules #.js
+
 JSON 파일 마지막에 콤마가있으면 에러난다.
 
 ```javascript
