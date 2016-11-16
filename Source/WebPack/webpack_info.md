@@ -31,3 +31,5 @@ jQuery.ajax();
 오류 보기: ctrl + p
 
 실시간 변경사항있으면 번들링 : webpack -w entry.js bundle.js
+
+JSON 파일은 마지막에 콤마, 홑따옴표 쓰면 안된다.
