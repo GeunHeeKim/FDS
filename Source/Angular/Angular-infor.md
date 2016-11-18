@@ -6,4 +6,6 @@ $ - 앵귤러의 서비스객체
 
 npm run server-i : Dev 서버가 아닌걸로 구동할때.
 
+data-ng-cloak {{}} 이거를 안보이게 한다.
+
 
