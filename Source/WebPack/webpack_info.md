@@ -33,3 +33,6 @@ jQuery.ajax();
 실시간 변경사항있으면 번들링 : webpack -w entry.js bundle.js
 
 JSON 파일은 마지막에 콤마, 홑따옴표 쓰면 안된다.
+
+webpack 쓸때, 매번 번들링 할때 sass 파일등 까지 번들하면 시간이 오래 걸리므로,
+폴더 구조를 잘 짤 필요가 있다.
