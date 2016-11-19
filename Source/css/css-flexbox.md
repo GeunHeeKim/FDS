@@ -12,6 +12,10 @@
 
    column        - 위에서 아래로 정렬.(이 때 주축은 세로, 교차축은 가로)
    column-reverse
+   
+ 2. flex-wrap: nowrap(default) - flex items 가 한 줄로 정렬되게 함.
+               wrap            - flex items 가 여러줄로 정렬되게 함.
+               wrap-reverse    - flex items 가 여러줄인데, 역방향으로 정렬됨.
 ```
                     
                     
