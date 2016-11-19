@@ -36,7 +36,7 @@
                    baseline ( 교차축 기준 아이템들중 글자의 베이스라인이 교차축의 시작점으로 가장 먼 아이템이
                               교차축 시작점에 위치한다.)
                     
-  6. align-self (플렉스 아이템에 적용하는 속성으로 개별적으로 교차축방향의 설정가능.):
+  6. align-self (flex items property, 개별적으로 교차축방향의 설정가능.):
                    auto
                    stretch
                    flex-start
@@ -51,14 +51,16 @@
                                                                      space-around,
                                                                      space-between
                                                                      
-    8. order (flex items property) : 양수, 음수 값 모두 가능. 숫자대로 순서 변경이 가능하다.           
+    8. order (flex items property) : 양수, 음수 값 모두 가능. 숫자대로 순서 변경이 가능하다. 
+    
+    9. flex-grow (flex items property) : flexible item이 차지할 너비들에 대한 증가형 숫자를 지정한다.
+    
+    10. flex-shrink (flex items property) : flexible item이 차지할 너비들에 대한 감소형 숫자를 지정한다.
+    
+    11. flex-basis (flex items property) : flexible item이 차지할 너비의 길이를 지정한다.
 
 ```
-                    
-                    
-* flex-grow : flexible item들이 차지할 너비들에 대한 증가형 숫자를 지정한다.
-* flex-shrink : flexible item들이 차지할 너비들에 대한 감소형 숫자를 지정한다.
-* flex-basis : item의 길이를 지정한다.
+
 * auto : 1 1 auto와 같다.
 * initial : 0 1 auto와 같다.
 * none : 0 0 auto와 같다.
