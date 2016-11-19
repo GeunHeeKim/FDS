@@ -16,6 +16,9 @@
  2. flex-wrap: nowrap(default) - flex items 가 한 줄로 정렬되게 함.
                wrap            - flex items 가 여러줄로 정렬되게 함.
                wrap-reverse    - flex items 가 여러줄인데, 역방향으로 정렬됨.
+               
+ 3. flex-flow (flex-direction + flex-wrap 두개의 속성을 한 번에 표현하는 속기형 표현.)  
+    ex) flex-flow : wrap nowrap (default)
 ```
                     
                     
