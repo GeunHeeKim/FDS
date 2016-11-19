@@ -50,6 +50,8 @@
                                                                      center,
                                                                      space-around,
                                                                      space-between
+                                                                     
+    8. order (flex items property) : 양수, 음수 값 모두 가능. 숫자대로 순서 변경이 가능하다.                                                              
 
 ```
                     
