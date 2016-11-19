@@ -58,10 +58,11 @@
     10. flex-shrink (flex items property) : flexible item이 차지할 너비들에 대한 감소형 숫자를 지정한다.
     
     11. flex-basis (flex items property) : flexible item이 차지할 너비의 길이를 지정한다.
+    
+    12. flex (flex item property, 속기형 표현) : [flex-grow], [flex-shrink], [flex-basis]
+                                                0 1 auto (default) = 0 auto = initial,
+                                                1 1 auto = auto,
+                                                none = 0 0 auto
 
 ```
 
-* auto : 1 1 auto와 같다.
-* initial : 0 1 auto와 같다.
-* none : 0 0 auto와 같다.
-* inherit : 부모 요소로부터 값을 상속 받는다.
