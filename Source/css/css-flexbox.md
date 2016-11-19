@@ -43,6 +43,13 @@
                    flex-end
                    baseline
                    center
+                   
+   7. align-content(여러줄일때 교차축 방향으로 박스 배치를 할 수 있음) : stretch(default),
+                                                                     flex-start,
+                                                                     flex-end,
+                                                                     center,
+                                                                     space-around,
+                                                                     space-between
 
 ```
                     
