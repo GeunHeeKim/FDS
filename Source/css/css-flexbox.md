@@ -35,6 +35,15 @@
                    center
                    baseline ( 교차축 기준 아이템들중 글자의 베이스라인이 교차축의 시작점으로 가장 먼 아이템이
                               교차축 시작점에 위치한다.)
+                    
+  6. align-self (플렉스 아이템에 적용하는 속성으로 개별적으로 교차축방향의 설정가능.):
+                   auto
+                   stretch
+                   flex-start
+                   flex-end
+                   baseline
+                   center
+
 ```
                     
                     
