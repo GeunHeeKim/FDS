@@ -5,13 +5,13 @@
 **관련 속성**
 
 ```css
->1. flex-direction : 
->                     
->   row (default) - 왼쪽에서 오른쪽으로 정렬.(이 때 주축은 가로, 교차축은 세로)
->   row-reverse   - 오른쪽에서 왼쪽으로 정렬.
->
->   column        - 위에서 아래로 정렬.(이 때 주축은 세로, 교차축은 가로)
->   column-reverse
+1. flex-direction : 
+                     
+   row (default) - 왼쪽에서 오른쪽으로 정렬.(이 때 주축은 가로, 교차축은 세로)
+   row-reverse   - 오른쪽에서 왼쪽으로 정렬.
+
+   column        - 위에서 아래로 정렬.(이 때 주축은 세로, 교차축은 가로)
+   column-reverse
 ```
                     
                     
