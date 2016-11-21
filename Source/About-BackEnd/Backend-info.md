@@ -12,3 +12,7 @@ WebServer 는 통로다.
  3. MIT License - 완전 라이센스가 없다. 
  
 ```
+**About Git**
+git clone + 깃헙 사이트에서 주소를 카피해 와서 붙여넣기 하면 된다.
+
+rm -rf .git - 깃을 떨어뜨리고 독립된 소스가 된다.
