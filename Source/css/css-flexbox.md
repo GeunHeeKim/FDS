@@ -58,9 +58,10 @@
     10. flex-shrink (flex items property) : flexible item이 차지할 너비들에 대한 감소형 숫자를 지정한다.
     
     11. flex-basis (flex items property) : flexible item이 차지할 너비의 길이를 지정한다. 
-    주축의 방향이 row일 경우 자식 컨텐츠의 넓이를, 주축의 방향이 column 일 경우 자식 컨텐츠의 높이를 조절하게 됩니다. width 속성과 비슷합니다.
+    주축의 방향이 row일 경우 자식 컨텐츠의 넓이를, 주축의 방향이 column 일 경우 자식 컨텐츠의 높이를 조절하게 됩니다. 
+    width 속성과 비슷합니다.
     
-    12. flex (flex item property, 속기형 표현) : [flex-grow], [flex-shrink], [flex-basis]
+    12. flex (flex item property, 속기형 표현) , 0 은 기본값. : [flex-grow], [flex-shrink], [flex-basis]
                                                 0 1 auto (default) = 0 auto = initial,
                                                 1 1 auto = auto,
                                                 none = 0 0 auto
