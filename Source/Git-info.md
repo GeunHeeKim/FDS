@@ -42,3 +42,6 @@ V 누르면 비쥬얼
 
 :q!
 저장 안하고 vim 을 나감.
+
+
+git flow init
