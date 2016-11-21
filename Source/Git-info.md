@@ -48,3 +48,10 @@ git flow init
 
 git branch -a : 모든 브랜치를 보는 명령어
 git checkout -b develop : 브랜치가 없으면 브랜치를 만들고 들어가기
+
+
+git add .
+
+git commit -m "message"
+
+git push origin develop : git develop 서버 브렌치에 푸쉬하기
