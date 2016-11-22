@@ -35,4 +35,13 @@ ascii art
 
 console.log 에 개인 정보 넣어서 주기.
 
+view engine 을 통해서 html 문서를 만드는 것이다.
+view 엔진 공부하기.
+ejs 엔진
+
+퍼그 엔진
+
+직방 사이트 api가 열려있다.
+
+
 
