@@ -44,4 +44,15 @@ ejs 엔진
 직방 사이트 api가 열려있다.
 
 
+###3일차 - 복습시간 - Express 수업 명령어 순서.
+
+git checkout -b develop
+
+mkdir secondexpress
+
+작업폴더에서 npm init 
+
+npm install express --save
+
+
 
