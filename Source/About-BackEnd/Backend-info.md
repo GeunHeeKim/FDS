@@ -70,6 +70,12 @@ npm install socket.io --save
 
 socket.io - 라는건 1:1 채팅을 할 수 있는 통로를 뚫는 것을 말한다.
 
+git flow 로 릴리즈하기!!!!
+
+git flow release start
+
+git flow release finish v0.1.0
+
 
 
 
