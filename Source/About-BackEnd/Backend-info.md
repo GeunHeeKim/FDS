@@ -62,4 +62,8 @@ ejs 설치 :  npm install ejs --save
 
 swp 파일은 임시로 생성되는 파일종류이다?
 
+바벨 문법, es6 문법 익히기
+
+web assembly, amp 공부하기.
+
 
