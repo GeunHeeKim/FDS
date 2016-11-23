@@ -54,5 +54,9 @@ mkdir secondexpress
 
 npm install express --save
 
+라우트 설정을 한다음 (서버js 에 만들고, export 해주고...)
+ejs 파일들을 페이지 수만큼 만들고,
+ejs 설치 :  npm install ejs --save
+
 
 
