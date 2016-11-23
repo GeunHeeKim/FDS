@@ -60,3 +60,6 @@ ejs 설치 :  npm install ejs --save
 
 
 
+swp 파일은 임시로 생성되는 파일종류이다?
+
+
