@@ -66,4 +66,10 @@ swp 파일은 임시로 생성되는 파일종류이다?
 
 web assembly, amp 공부하기.
 
+npm install socket.io --save
+
+socket.io - 라는건 1:1 채팅을 할 수 있는 통로를 뚫는 것을 말한다.
+
+
+
 
