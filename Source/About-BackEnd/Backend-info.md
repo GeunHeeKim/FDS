@@ -90,6 +90,9 @@ npm install express --save
 
 npm install request --save
 
+cheerio 설치:
+npm install cheerio --save
+
 
 
 
