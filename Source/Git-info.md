@@ -55,3 +55,15 @@ git add .
 git commit -m "message"
 
 git push origin develop : git develop 서버 브렌치에 푸쉬하기
+
+
+git add .
+git commit -m "test message".
+
+git push origin develop
+
+
+feature 브렌치 따는 명령어:
+git flow feature start chat
+
+
