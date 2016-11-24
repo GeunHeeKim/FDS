@@ -77,5 +77,20 @@ git flow release start
 git flow release finish v0.1.0
 
 
+socket 설치 명령어:
+npm install socket.io --save
+
+
+새로운 토마토 프로젝트 시작!
+touch server.js
+
+npm init
+
+npm install express --save
+
+npm install request --save
+
+
+
 
 
