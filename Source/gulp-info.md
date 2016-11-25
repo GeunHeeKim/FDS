@@ -11,3 +11,7 @@ npm install gulp -g
 npm install gulp --save-dev
 
 touch gulpfile.js
+
+gulp는 글로벌 설치 하고,
+
+다시헌번 npm install gulp --save-dev로 한 번더 설치 해야한다.
