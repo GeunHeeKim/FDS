@@ -68,9 +68,12 @@ git flow feature start chat
 
 
 .gitignore 파일에 아래내용 넣어주기.
-
+제일 위에!
+```
+# Custom
 .DS_Store
-*.swp
+.*.swp
+```
 
 
 gitignore 파일을 만드려면 레포를 만들때 옵션에서 왼쪽꺼
