@@ -14,3 +14,7 @@ heroku apps:create fcfdsnodeweb
 http://git.heroku.com/fcfdsnodeweb.git 에서 파일을 볼 수 있다.
 
 master에 푸시를하면 된다.
+
+git push heroku master
+
+지금 디렉토리에 있는 파일들이 헤로쿠의 깃으로 올라간다.
