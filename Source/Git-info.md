@@ -67,3 +67,13 @@ feature 브렌치 따는 명령어:
 git flow feature start chat
 
 
+.gitignore 파일에 아래내용 넣어주기.
+
+.DS_Store
+*.swp
+
+
+gitignore 파일을 만드려면 레포를 만들때 옵션에서 왼쪽꺼
+node 옵션 선택을 해야한다.
+
+
