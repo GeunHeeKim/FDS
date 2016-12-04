@@ -31,18 +31,8 @@ rm -rf .git - 깃을 떨어뜨리고 독립된 소스가 된다.
 vim .gitignore
 
 들어가서
-i 누르고 글자쓰기 Esc 하면 나옴.
-V 누르면 비쥬얼
-
 
 노멀 모드에서 p를 누르면 복사
-
-:wq
-저장하고 vim 을 나감
-
-:q!
-저장 안하고 vim 을 나감.
-
 
 git flow init
 
