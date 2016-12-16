@@ -1,0 +1,42 @@
+@import url('../fonts/hyundai-card-font.css');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size:rem;
+    line-height: 1.5
+}
+.photo {width:1000px;height:642px;text-align: center; margin:0 auto;padding:0;}
+table{
+    border-top:2px solid #000;
+    border-collapse: collapse;
+    border-spacing:0;
+    width:1000px;
+    margin:0 auto
+    
+}
+tr {border-bottom:1px solid #eee}
+th, td {font-family: 'YouandiModernTR';
+border-right:1px solid #eee;
+padding:1.6em 2em;
+}
+tr *:first-child { border-left:none}
+tr *:last-child { border-right:none}
+li:before,li::before {
+    content:'-'
+}
+li {list-style: none}
+.readable-hidden {
+    width: 1px;
+    height: 1px;
+    margin:-1px;
+    border:0;
+    padding:0;
+    overflow: hidden
+
+
+}
+
+a {color:#4b90de; text-decoration: none}
+a:hover,a:focus {padding-bottom:2px; border-bottom:1px solid}
+
