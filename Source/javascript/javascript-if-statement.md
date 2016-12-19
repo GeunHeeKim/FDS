@@ -26,6 +26,6 @@ switch(){
     break;
     
     default:
-    default condision
+    default condition
 }
 ```
