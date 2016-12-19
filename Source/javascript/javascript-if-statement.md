@@ -6,5 +6,7 @@ var test = "value" ;
 
 2. 다중 삼항식
 ```javascript
-conditionA()? processA() : coditionB()? processB() : conditionC()? processC(): processC(C condition is false)
+conditionA()? processA()
+: coditionB()? processB() 
+: conditionC()? processC(): processC(C condition is false)
 ```
