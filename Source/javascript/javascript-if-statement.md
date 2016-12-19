@@ -1,4 +1,4 @@
-1. 
+1. 1개의 조건일때 삼항식
 ```javascript
 var test = "value" ;
 (test === "value")? console.log ("this is true") : console.log ("this is false")
