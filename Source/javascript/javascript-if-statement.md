@@ -14,18 +14,18 @@ conditionA()? processA()
 ```javascript
 switch(){
   case 'A' : 
-    conditionA
+    conditionA;
     break;
     
     case 'B' :
-    conditionB
+    conditionB;
     break;
     
     case 'C' :
-    conditionC
+    conditionC;
     break;
     
     default:
-    default condition
+    default condition;
 }
 ```
