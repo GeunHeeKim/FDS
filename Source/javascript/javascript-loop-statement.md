@@ -7,31 +7,11 @@
    for문 안에 for문이 또 들어갈 수 있다.
    별 찍기  예제.
  ```javascript
-  for(var i=0; i<6; i++) {
-    var count = i + 1 ;
+  for(var i=0; i<5; i++) {
+    
     var result = "";
-    for(var m = 0 ; m < count ; m++) {
-
-      switch(m){
-      case 1 :
-      result = "*";
-      break;
-
-      case 2 :
-      result = "**";
-      break;
-
-      case 3 :
-      result = "***";
-      break;
-
-      case 4 :
-      result = "****";
-      break;
-
-      case 5 :
-      result = "*****";
-      }
+    for(var m = 0 ; m <i ; m++) {
+      result += "*";
     }
 
     document.write(result, "<br>");
