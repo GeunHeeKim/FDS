@@ -9,6 +9,6 @@ npm install gulp-concat --save-dev
 npm install gulp-sass --save-dev
 ```
 
-
+Gulp 사용 : 
 npmjs 사이트에서 "gulp tasks " 라고 검색해서  원하는 기능을 npm 으로 설치하면 된다.
 
