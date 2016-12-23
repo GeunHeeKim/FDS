@@ -110,3 +110,7 @@ aa.call(this); -   aa 안에서 this를 지정할 수 있다.
 
 call apply bind 의 차이를 나중에 알 수 있으면 좋겠다.
 
+
+12.23.2016
+MVC model , MVP model, MVVM model의 차이점. 
+View and Model의 dependency 일까?
