@@ -28,7 +28,7 @@ font-family: "fontello";
 }
 ```
 
-3. 웹 폰트를 가상요소로 쓸 때 content 에 넣을 코드 참고링크
+3. 웹 폰트를 가상요소로 쓸 때 content 에 넣을 코드 참고링크:
 https://astronautweb.co/snippet/font-awesome/
 
 
