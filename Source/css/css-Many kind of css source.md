@@ -20,7 +20,7 @@ https://github.com/spoqa/spoqa-han-sans/blob/master/css/SpoqaHanSans-kr.css
 <script src="https://use.fontawesome.com/2229cdbbdb.js"></script>
 
 2. 샘플  css
-```
+```css
 .main-menu ul a:hover::before,  {
 font-family: "fontello";
 	content: "\f113";
