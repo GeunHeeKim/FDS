@@ -1,3 +1,4 @@
+<img src="https://github.com/GeunHeeKim/FDS/edit/gh-pages/Source/images/column3-align.png">
 ```html
 <!DOCTYPE HTML>
 <html>
