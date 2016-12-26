@@ -1,4 +1,5 @@
-<img src="https://github.com/GeunHeeKim/FDS/Source/images/column3-align.png">
+
+<img src="https://github.com/GeunHeeKim/FDS/blob/gh-pages/Source/images/column3-align.PNG">
 ```html
 <!DOCTYPE HTML>
 <html>
