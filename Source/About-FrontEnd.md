@@ -1,3 +1,11 @@
+URL(Uniform Resource Locater) & URI(Uniform Resource Indentificator) & URN(Uniform Resource Name)
+
+URI가 최상위의 개념이다.
+
+모든 URL는 URL이다.
+
+URN의 형식 - aa:julia89
+
 2016.10.31
 
 ```javascript
