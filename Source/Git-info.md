@@ -1,3 +1,4 @@
+리모트 브랜치를 로컬로 내려받기 : git checkout "branch name"
 commit - 저장하는 하나의 포인트, 게임하다가 중간에 저장하는 거 같은것.
 
 로컬이 아닌 외부에 있는 모든 저장소 - remote
