@@ -26,4 +26,13 @@ h5 {
     -webkit-box-orient: vertical;
 
   }
+  
+text-align: left : 글자 정렬이 양쪽 정렬이면 말 줄임표가 숨겨질 수 있으니 좌측 정렬로
+word-wrap: break-word : 잘라버릴 글자를 단어 단위로
+display: -webkit-box : 여백 삽입과 같이 유연한 높이 증가를 위해 플렉스 박스형태로 변환
+-webkit-line-clamp: 3 : 보여줄 줄 갯수
+-webkit-box-orient: vertical : 플렉스 박스의 방향 설정
+
+height 대신에 max-height 를 설정해서 최대치만 제한해도 된다.
 ~~~~
+출처 :http://webdir.tistory.com/483
