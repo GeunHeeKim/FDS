@@ -10,6 +10,8 @@ h5 {
     text-overflow: ellipsis
   }
   
+  
+  
 여러줄 줄임(firefox 에서는 안됨)
   .event-description {
     width: 100%;
