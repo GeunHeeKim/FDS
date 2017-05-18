@@ -1,5 +1,5 @@
 ttf, otf 는 무거운 텍스트 포맷 이다. 웹용 폰트가 아니다.
-
+`
 ellipsis
 한줄 줄임
 h5 {
@@ -26,3 +26,4 @@ h5 {
     -webkit-box-orient: vertical;
 
   }
+`
